@@ -49,19 +49,5 @@ Texto introducido: "Hola soy una prueba"
 Resultado: "El número de vocales en el texto es: 8"
 Próximas Mejoras 🚀
 Mostrar desglose por cada tipo de vocal
-
-Añadir gráfico de distribución de vocales
-
-Opción para copiar resultados al portapapeles
-
-Versión ejecutable para Windows/macOS/Linux
-
-¿Cómo contribuir? 🤝
-Reporta bugs o sugiere mejoras abriendo un Issue
-
-Haz fork del proyecto y envía tus Pull Requests
-
-Comparte el proyecto con otros desarrolladores
-
 Licencia 📜
 MIT License - Ver LICENSE para más detalles.
