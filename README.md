@@ -1,17 +1,67 @@
-# Vocales-en-cadenas-de-texto
-Este proyecto es una sencilla aplicación de escritorio en Python que cuenta el número de vocales en una cadena de texto ingresada por el usuario. Utiliza la biblioteca Tkinter para la interfaz gráfica de usuario.
-Contador de Vocales en Python con Tkinter
+Contador de Vocales en Cadenas de Texto 🎵
+https://img.shields.io/badge/Python-3.8%252B-blue
+https://img.shields.io/badge/License-MIT-green
+https://img.shields.io/badge/GUI-Tkinter-orange
+
+Una aplicación de escritorio en Python que cuenta vocales en textos con interfaz gráfica intuitiva.
+
+[image](https://github.com/user-attachments/assets/e566cb6b-06a4-40d5-b61d-c894d3b4bb55)
 
 
-Características
-Interfaz amigable: La aplicación tiene una interfaz gráfica fácil de usar con un campo de entrada y un botón.
-Contador de vocales: Al hacer clic en el botón, se cuenta el número de vocales (mayúsculas y minúsculas) en el texto ingresado y se muestra el resultado en una ventana emergente.
-Capturas de pantalla
+Características ✨
+✅ Conteo preciso de vocales (a, e, i, o, u) en mayúsculas y minúsculas
 
-![image](https://github.com/Alexey-Ortega/Vocales-en-cadenas-de-texto/assets/155100832/46db3837-9fbc-4a51-bba0-b22619e152e4)
-![image](https://github.com/Alexey-Ortega/Vocales-en-cadenas-de-texto/assets/155100832/baea880c-5a0e-43f7-9b27-aa8749aeb244)
+🖥️ Interfaz limpia y minimalista con Tkinter
 
+📊 Resultados claros en ventana emergente
 
-Requisitos
-Python 3.x
-Tkinter (generalmente incluido con Python)
+⚡ Respuesta instantánea al hacer clic
+
+🎨 Diseño funcional con botón de "Aceptar" para cerrar resultados
+
+Cómo funciona 🔍
+Introduce tu texto en el campo designado
+
+Haz clic en "Contar Vocales"
+
+Obtén el resultado en una ventana emergente con:
+
+El recuento total de vocales
+
+Botón para aceptar y continuar
+
+Requisitos 📋
+Python 3.8 o superior
+
+Módulo Tkinter (generalmente incluido en instalaciones estándar de Python)
+
+Instalación y Ejecución ⚙️
+bash
+# Clonar el repositorio
+git clone https://github.com/tuusuario/vocales-en-cadenas-de-texto.git
+cd vocales-en-cadenas-de-texto
+
+# Ejecutar la aplicación
+python main.py
+Ejemplo de Uso 📝
+python
+Texto introducido: "Hola soy una prueba"
+Resultado: "El número de vocales en el texto es: 8"
+Próximas Mejoras 🚀
+Mostrar desglose por cada tipo de vocal
+
+Añadir gráfico de distribución de vocales
+
+Opción para copiar resultados al portapapeles
+
+Versión ejecutable para Windows/macOS/Linux
+
+¿Cómo contribuir? 🤝
+Reporta bugs o sugiere mejoras abriendo un Issue
+
+Haz fork del proyecto y envía tus Pull Requests
+
+Comparte el proyecto con otros desarrolladores
+
+Licencia 📜
+MIT License - Ver LICENSE para más detalles.
